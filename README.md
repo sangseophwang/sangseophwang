@@ -1,6 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20Seop👋&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20My%20Name%20is%20Seop👋&fontSize=50&animation=fadeIn&fontAlignY=36)
 
-🌀 Languages
+
+<details markdown="1" open>
+<summary><strong>👩‍💻 Technologies & Tools</strong></summary>
+
+<br/>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+</details>
+
+<details markdown="1">
+<summary><strong>🌀 GitHub Stats</strong></summary>
+
+<br/>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sangseophwang&show_icons=true&theme=radical&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sangseophwang&hide=css,java,html,asp&theme=radical&langs_count=4">
+</p>
+
+</details>
 
 <!--
 **sangseophwang/sangseophwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
