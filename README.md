@@ -4,6 +4,7 @@ I'm learning sooo hard!🔥
 
 - 🌱 Learning everything
 - ❤️ Good things are always beautiful
+- 🎖️ Someday, I'll develop rnasterpiece !
 
 
 <details markdown="1" open>
