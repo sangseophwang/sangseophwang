@@ -1,5 +1,10 @@
 ###  👋 Hello ! My name is Seop. I am preparing to become a front-end developer.
 
+👋 Hello My name is Harim, I am a developer working at Intel
+
+My major is mathematics📚, and I have been studying computer science💻 since 2018. I have project experience using Python(My most confident language), Java & Android, c++, and Matlab languages. I am very interested in machine learning. I am especially interested in computer vision.
+
+
 <!--
 **sangseophwang/sangseophwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
