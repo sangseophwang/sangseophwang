@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20My%20Name%20is%20Seop👋&fontSize=50&animation=fadeIn&fontAlignY=36)
 
+I'm learning sooo hard!🔥
+
+- 🌱 Learning everything
+- ❤️ Good things are always beautiful
+
 
 <details markdown="1" open>
 <summary><strong>👩‍💻 Technologies & Tools</strong></summary>
