@@ -1,9 +1,6 @@
-###  👋 Hello ! My name is Seop. I am preparing to become a front-end developer.
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20Seop👋&fontSize=36&animation=fadeIn&fontAlignY=36)
 
-👋 Hello My name is Harim, I am a developer working at Intel
-
-My major is mathematics📚, and I have been studying computer science💻 since 2018. I have project experience using Python(My most confident language), Java & Android, c++, and Matlab languages. I am very interested in machine learning. I am especially interested in computer vision.
-
+🌀 Languages
 
 <!--
 **sangseophwang/sangseophwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
