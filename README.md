@@ -2,7 +2,7 @@
 
 I'm learning sooo hard!🔥
 
-- 🌱 Learning everything
+- 🌱 I'm learning JavaScript now!
 - ❤️ Good things are always beautiful
 - 🎖️ Someday, I'll develop rnasterpiece !
 
