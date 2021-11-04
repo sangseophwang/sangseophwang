@@ -39,7 +39,7 @@ I'm learning sooo hard!🔥
 </details>
 
 <h2> About More </h2> 
-[**Click Here**](https://onyx-limburger-373.notion.site/25d18676f50d44e29f3daa3d00ddc79c)
+:point_right: [**Click Here**](https://onyx-limburger-373.notion.site/25d18676f50d44e29f3daa3d00ddc79c)
 
 
 <!--
