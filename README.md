@@ -18,6 +18,7 @@ I'm learning sooo hard!🔥
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="http://img.shields.io/badge/react%20-%2361DAFB?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
