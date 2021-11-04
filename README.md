@@ -41,13 +41,9 @@ I'm learning sooo hard!🔥
 
 <h2> About More </h2> 
 
-📫 Contact me : combi_jihoon@naver.com <br>
-🌱 Also study on :  [Velog](https://velog.io/@https://velog.io/@combi_jihoon/) & [Naver Blog](https://blog.naver.com/combi_jihoon)
+📫 Contact me : sshwang-1@hanmail.net <br>
 
-> If you want to know more about me, please check :point_right: [**Here(Notion)**](https://tree-poppyseed-6d2.notion.site/Developer-f1dd18c466f245d9839898d589c89cdb)
-
-> [Click here](https://onyx-limburger-373.notion.site/25d18676f50d44e29f3daa3d00ddc79c)
-
+> If you want to know more about me, please check :point_right: [**Here(Notion)**](https://onyx-limburger-373.notion.site/25d18676f50d44e29f3daa3d00ddc79c)
 
 <!--
 **sangseophwang/sangseophwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
