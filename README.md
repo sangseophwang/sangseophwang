@@ -24,6 +24,7 @@ I'm learning sooo hard!🔥
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=redux&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="cypress" src="https://img.shields.io/badge/cypress-3C3C3C?style=flat-square&logo=cypress&logoColor=white" />
 </p>
 
 </details>
