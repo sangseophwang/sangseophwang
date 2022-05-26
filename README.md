@@ -2,7 +2,7 @@
 
 I'm learning sooo hard!🔥
 
-- 🌱 I'm learning JavaScript, TypeScript, React, and SCSS now!
+- 🌱 I'm learning TypeScript, Next.js, Nuxt.js, Styled-Components now!
 - ❤️ Good things are always beautiful
 - 🎖️ Someday, I'll develop rnasterpiece !
 
