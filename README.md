@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20My%20Name%20is%20Seop👋&fontSize=50&animation=fadeIn&fontAlignY=36)
 
-I'm learning sooo hard!🔥
-
-- 🌱 I'm learning TypeScript, Next.js, Nuxt.js, Styled-Components now!
+- 🌱 I'm using TypeScript, Next.js, emotion now!
 - ❤️ Good things are always beautiful
 - 🎖️ Someday, I'll develop rnasterpiece !
 
