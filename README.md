@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20My%20Name%20is%20Seop👋&fontSize=50&animation=fadeIn&fontAlignY=36)
 
-- 🌱 I'm using TypeScript, Next.js, emotion now!
+- 🌱 I'm using TypeScript, Next.js, emotion, scss module now!
 - ❤️ Good things are always beautiful
 - 🎖️ Someday, I'll develop rnasterpiece !
 
@@ -16,6 +16,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?&style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="React" src="http://img.shields.io/badge/react%20-%2361DAFB?&style=flat-square&logo=react&logoColor=white"/>
+  <img alt="Nextjs" src="http://img.shields.io/badge/Next.js%20-%23000000?&style=flat-square&logo=nextdotjs&logoColor=white"/>
 </p>
 <p align="left">
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -43,7 +44,7 @@
 
 📫 Contact me : sshwang-1@hanmail.net <br>
 
-> If you want to know more about me, please check :point_right: [**Here(Notion)**](https://onyx-limburger-373.notion.site/25d18676f50d44e29f3daa3d00ddc79c)
+> If you want to know more about me, please check :point_right: [**Here(Notion)**](https://sangseophwang.notion.site/SangSeopHwang-e9e510224261436e996c5031c7f8f80d?pvs=4)
 
 <!--
 **sangseophwang/sangseophwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
