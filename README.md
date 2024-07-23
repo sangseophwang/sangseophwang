@@ -5,7 +5,7 @@
 - 🎖️ Someday, I'll develop rnasterpiece !
 
 
-<h2>Technology Stack</h2>
+<h2> 🛠️ Technology Stack</h2>
 
 <p align="left">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@
   <img alt="MUI" src="https://img.shields.io/badge/MUI-007ACC?style=flat-square&logo=MUI&logoColor=white" />
 </p>
 
-<h2> Contact </h2> 
+<h2> 📞 Contact </h2> 
 
 - Email: [sshwang12345@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sshwang12345@gmail.com)
 - Tistory: [Seop's Blog](https://sangseophwang.tistory.com/)
