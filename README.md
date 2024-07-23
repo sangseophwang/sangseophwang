@@ -5,10 +5,7 @@
 - 🎖️ Someday, I'll develop rnasterpiece !
 
 
-<details markdown="1" open>
-<summary><strong>👩‍💻 Technologies & Tools</strong></summary>
-
-<br/>
+<h2>Technology Stack</h2>
 
 <p align="left">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/>
@@ -26,8 +23,6 @@
     <img alt="cypress" src="https://img.shields.io/badge/cypress-3C3C3C?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="MUI" src="https://img.shields.io/badge/MUI-007ACC?style=flat-square&logo=MUI&logoColor=white" />
 </p>
-
-</details>
 
 <h2> Contact </h2> 
 
