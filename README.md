@@ -29,23 +29,13 @@
 
 </details>
 
-<details markdown="1">
-<summary><strong>🌀 GitHub Stats</strong></summary>
+<h2> Contact </h2> 
 
-<br/>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sangseophwang&show_icons=true&theme=radical&count_private=true&line_height=27">
-</p>
-
-</details>
-
-<h2> About More </h2> 
-
-📫 Contact me : sshwang-1@hanmail.net <br>
-
-> If you want to know more about me, please check :point_right: [**Here(Notion)**](https://sangseophwang.notion.site/SangSeopHwang-e9e510224261436e996c5031c7f8f80d?pvs=4)
-
+- Email: [sshwang12345@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sshwang12345@gmail.com)
+- Tistory: [Seop's Blog](https://sangseophwang.tistory.com/)
+- Notion: [Seop's Notion](https://sangseophwang.notion.site/SangSeopHwang-e9e510224261436e996c5031c7f8f80d?pvs=4) 
+- Linkedin: [Seop's Linkedin](https://www.linkedin.com/in/sangseophwang/) 
+ 
 <!--
 **sangseophwang/sangseophwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
