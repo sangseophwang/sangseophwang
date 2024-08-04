@@ -28,7 +28,6 @@
 
 - Email: [sshwang12345@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sshwang12345@gmail.com)
 - Tistory: [Seop's Blog](https://sangseophwang.tistory.com/)
-- Notion: [Seop's Notion](https://sangseophwang.notion.site/SangSeopHwang-e9e510224261436e996c5031c7f8f80d?pvs=4) 
 - Linkedin: [Seop's Linkedin](https://www.linkedin.com/in/sangseophwang/) 
  
 <!--
