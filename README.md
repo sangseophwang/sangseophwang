@@ -27,7 +27,7 @@
 <h2> 📞 Contact </h2> 
 
 - Email: [sshwang12345@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sshwang12345@gmail.com)
-- Tistory: [Seop's Blog](https://seop-log.vercel.app/)
+- Blog: [Seop Log](https://seop-log.vercel.app/)
 - Linkedin: [Seop's Linkedin](https://www.linkedin.com/in/sangseophwang/) 
  
 <!--
